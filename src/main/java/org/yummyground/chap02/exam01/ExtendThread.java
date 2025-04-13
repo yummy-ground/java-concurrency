@@ -1,4 +1,4 @@
-package org.yummyground.chap02;
+package org.yummyground.chap02.exam01;
 
 public class ExtendThread {
     public static void main(String[] args) {
